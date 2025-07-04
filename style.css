@@ -33,12 +33,13 @@ img {
 }
 
 button {
-    background-color: rgb(238, 0, 0);
+    background-color: #8A0000;
     width: 180px;
     height: 90px;
     border-radius: 10px;
     border-width: 1px;
     font-size: 2rem;
+    color: white;
 }
 
 .btn {
